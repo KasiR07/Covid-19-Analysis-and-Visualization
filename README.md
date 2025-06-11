@@ -61,8 +61,21 @@ px.choropleth(dataset1,
               hover_name='Country/Region',
               color_continuous_scale='Viridis')
 
-# 10. Optional Table Display
+### 10. Optional Table Display
 table = ff.create_table(dataset1.head(15))
 table.show()
+
+## Visualizations
+![image](https://github.com/user-attachments/assets/02f6f6ff-9000-4ad0-b67b-8ad3291b0129)
+
+![image](https://github.com/user-attachments/assets/044b1300-5bbf-4e95-933a-85f4b1b10ac9)
+
+![image](https://github.com/user-attachments/assets/d517b2e8-590a-4fe2-8b99-d39c206721b9)
+
+![image](https://github.com/user-attachments/assets/bb364a06-2e56-4c39-bf45-6ee3f5d7423a)
+
+
+
+
 
 
